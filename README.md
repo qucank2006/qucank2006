@@ -3,9 +3,10 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,100:CBA6F7&height=84&section=header)
 
 
-# Hi, I'm Tran Le Quoc Anh
-
-## An IT student who enjoys building practical software and learning how systems work.
+<p align="center">
+  <strong>Hi, I'm Eric</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand"><br>
+  <em>Small steps every day.</em> 💪
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=CBA6F7&center=true&width=650&lines=Information+Technology+Student;Vietnam+Korea+University+of+Information+and+Communication+technology;Java+%7C+C%2B%2B+%7C+Javascript;Build.+Learn.+Improve.)](https://git.io/typing-svg)

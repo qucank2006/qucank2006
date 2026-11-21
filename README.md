@@ -8,7 +8,7 @@
   <em>Small steps every day.</em> 💪
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=CBA6F7&center=true&width=650&lines=Information+Technology+Student;Vietnam+Korea+University+of+Information+and+Communication+technology;Build.+Learn.+Improve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=CBA6F7&center=true&width=650&lines=Information+Technology+Student;VKU+University;Build.+Learn.+Improve.)](https://git.io/typing-svg)
 </div>
 
 ### 🧠 Tech Stack

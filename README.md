@@ -8,7 +8,7 @@
 ## An IT student who enjoys building practical software and learning how systems work.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=CBA6F7&center=true&vCenter=true&width=650&lines=Information+Technology+Student+%40+Vietnam+-+Korea+University+of+Information+and+Communication+Technology;Java+%7C+C%2B%2B+%7C+Python+%7C+Web+Development;Build.+Learn.+Improve.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Information+Technology+Student;Vietnam+Korea+University+of+Information+and+Communication+technology;Java+%7C+C%2B%2B+%7C+Javascript;Build.+Learn.+Improve.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-qucank2006-313244?style=flat-square&logo=github&logoColor=cdd6f4)](https://github.com/qucank2006)
 

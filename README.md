@@ -43,10 +43,14 @@
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [OnlineMeeting](https://github.com/qucank2006/OnlineMeeting) | LAN meeting application with chat, audio and video | Java, TCP/UDP, JavaFX |
+
+| [SchoolManagement](https://github.com/qucank2006/SchoolManagement) | School management and academic administration | Java, JavaFX, MySQL, Maven |
 | [QAtech Backend](https://github.com/qucank2006/qatech_be) | Backend for an e-commerce application | Node.js, Express, MySQL |
 | [QAtech Frontend](https://github.com/qucank2006/qatech_fe) | E-commerce storefront and management UI | React, Vite |
-| [EducationCareerML](https://github.com/qucank2006/EducationCareerML) | Predicting starting salary with machine learning | Python, scikit-learn |
+| [MovieTicketBookingApp](https://github.com/qucank2006/MovieTicketBookingApp) | Android movie ticket booking application | Java, Android SDK, Firebase |
+| [DistributedFileSync](https://github.com/qucank2006/DistributedFileSync) | Distributed file synchronization and version management over LAN | Java 21, JavaFX, TCP/IP, Maven |
+
+
 
 ### 🎮 Contribution Breakout
 

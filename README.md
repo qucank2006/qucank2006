@@ -10,30 +10,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=CBA6F7&center=true&width=650&lines=Information+Technology+Student;Vietnam+Korea+University+of+Information+and+Communication+technology;Java+%7C+C%2B%2B+%7C+Javascript;Build.+Learn.+Improve.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-qucank2006-313244?style=flat-square&logo=github&logoColor=cdd6f4)](https://github.com/qucank2006)
-
 </div>
-
 
 <h2 align="left">🧠 Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
-</p>
-
-<h3 align="center">Frameworks & Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
-</p>
-<p align="center">
-  JavaFX
-</p>
-
-<h3 align="center">Databases & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,idea,vscode&perline=6&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,mysql,linux&perline=7&theme=dark" width="320" />
 
 
 ### 📊 GitHub Dashboard

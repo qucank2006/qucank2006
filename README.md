@@ -41,6 +41,7 @@
 
 ### 🚀 Selected Projects
 
+<div align="center">
 
 | Project | What it does | Stack |
 |:--|:--|:--|
@@ -50,6 +51,7 @@
 | [MovieTicketBookingApp](https://github.com/qucank2006/MovieTicketBookingApp) | Android movie ticket booking application | Java, Android SDK, Firebase |
 | [DistributedFileSync](https://github.com/qucank2006/DistributedFileSync) | Distributed file synchronization and version management over LAN | Java 21, JavaFX, TCP/IP, Maven |
 
+</div>
 
 
 

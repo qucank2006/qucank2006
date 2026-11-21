@@ -3,9 +3,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,100:CBA6F7&height=84&section=header)
 
 
-<h1 align="center">Hi, I'm Tran Le Quoc Anh</h1>
-<h2 align="center">An IT student who enjoys building practical software and learning how systems work.</h2>
-*An IT student who enjoys building practical software and learning how systems work.*
+#Hi, I'm Tran Le Quoc Anh
+##An IT student who enjoys building practical software and learning how systems work.
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=CBA6F7&center=true&vCenter=true&width=650&lines=Information+Technology+Student+%40+VKU;Java+%7C+C%2B%2B+%7C+Python+%7C+Web+Development;Build.+Learn.+Improve.)](https://git.io/typing-svg)
 

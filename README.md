@@ -64,8 +64,6 @@
   <img src="https://raw.githubusercontent.com/qucank2006/qucank2006/output-pacman/breakout-contribution-graph.svg" width="95%" alt="Animated contribution breakout" />
 </picture>
 
-<sub>Generated automatically by GitHub Actions. The graphic will appear after the workflow runs successfully.</sub>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=100&section=footer)
 
 </div>

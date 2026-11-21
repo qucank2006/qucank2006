@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:cba6f7,100:f5c2e7&height=150&section=header&text=QANK&fontSize=52&fontColor=1e1e2e&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,100:CBA6F7&height=84&section=header)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=CBA6F7&center=true&vCenter=true&width=650&lines=Information+Technology+Student+%40+VKU;Java+%7C+C%2B%2B+%7C+Python+%7C+Web+Development;Build.+Learn.+Improve.)](https://git.io/typing-svg)
 

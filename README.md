@@ -14,8 +14,9 @@
 
 <h2 align="left">🧠 Tech Stack</h2>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,mysql,linux&perline=7&theme=dark" width="320" />
-
+</div>
 
 ### 📊 GitHub Dashboard
 

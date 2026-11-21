@@ -41,14 +41,15 @@
 
 ### 🚀 Selected Projects
 
+
 | Project | What it does | Stack |
 |:--|:--|:--|
-
 | [SchoolManagement](https://github.com/qucank2006/SchoolManagement) | School management and academic administration | Java, JavaFX, MySQL, Maven |
 | [QAtech Backend](https://github.com/qucank2006/qatech_be) | Backend for an e-commerce application | Node.js, Express, MySQL |
 | [QAtech Frontend](https://github.com/qucank2006/qatech_fe) | E-commerce storefront and management UI | React, Vite |
 | [MovieTicketBookingApp](https://github.com/qucank2006/MovieTicketBookingApp) | Android movie ticket booking application | Java, Android SDK, Firebase |
 | [DistributedFileSync](https://github.com/qucank2006/DistributedFileSync) | Distributed file synchronization and version management over LAN | Java 21, JavaFX, TCP/IP, Maven |
+
 
 
 

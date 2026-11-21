@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong>Hi, I'm Eric</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand"><br>
+  <strong>Hi, I'm Tran Le Quoc Anh</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Waving hand"><br>
   <em>Small steps every day.</em> 💪
 </p>
 
